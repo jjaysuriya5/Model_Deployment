@@ -2,7 +2,7 @@
 
 URL - https://jjsalaryprediction-api.herokuapp.com/ (Note : This is a base model so all scenarios are not handled use only integer values to get the salary prediction )
 
-The below stpe by step actions are performed to deploy the model
+The below step by step actions are performed to deploy the model
 
 1) Model building
 
